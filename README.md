@@ -1,4 +1,6 @@
-# datascience portfolio Explore my projects on importing of data and data manipulation
+# datascience portfolio 
+
+Explore my projects on importing of data and data manipulation
 
 
 # Project 1: Exploring-the-NYC-Airbnb-Market
