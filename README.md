@@ -5,7 +5,7 @@ Explore my projects on importing of data and data manipulation
 
 # Project 1: Exploring-the-NYC-Airbnb-Market
 
-The goal is to convert untidy data into appropriate formats to analyze, and answer key questions including:
+ The goal is to convert untidy data into appropriate formats to analyze, and answer key questions including:
 
 *What is the average price, per night, of an Airbnb listing in NYC?
 
