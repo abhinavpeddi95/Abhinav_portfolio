@@ -7,9 +7,9 @@ Explore my projects that demonstrate my proficiency in tasks such as importing d
 In this project, I have applied data importing and cleaning skills to uncover below insights about the Airbnb market in New York City.
 
 *What is the average price, per night, of an Airbnb listing in NYC?
-*How does the average price of an Airbnb listing, per month, compare to the private rental market?
-*How many adverts are for private rooms?
-*How do Airbnb listing prices compare across the five NYC boroughs?
+How does the average price of an Airbnb listing, per month, compare to the private rental market?
+How many adverts are for private rooms?
+How do Airbnb listing prices compare across the five NYC boroughs?
 
 # [Project 2: A Visual History of Nobel Prize Winners] (https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
 
