@@ -13,8 +13,6 @@ In this project, I have applied data importing and cleaning skills to uncover be
 
 # [Project 2: A Visual History of Nobel Prize Winners] (https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
 
-In this project, I have applied Data Manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
-
 The goal is to explore patterns and trends over 100 years worth of Nobel Prize winners using Data Manipulation and visualization skills, and answering key questions
 
 *Which country got the most Nobel prizes
