@@ -13,7 +13,7 @@ How do Airbnb listing prices compare across the five NYC boroughs?
 
 # [Project 2: A Visual History of Nobel Prize Winners](https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
 
-The goal is to explore patterns and trends over 100 years worth of Nobel Prize winners using Data Manipulation and visualization skills, and answering key questions
+The goal is to explore patterns and trends over 100 years worth of Nobel Prize winners using <b> Data Manipulation and visualization skills </b>, and answering key questions
 
 *Which country got the most Nobel prizes
 What is the gender of a typical Nobel Prize winner? 3.The first woman to win the Nobel Prize
