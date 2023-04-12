@@ -16,9 +16,9 @@ How do Airbnb listing prices compare across the five NYC boroughs?
 The goal is to explore patterns and trends over 100 years worth of Nobel Prize winners using Data Manipulation and visualization skills, and answering key questions
 
 *Which country got the most Nobel prizes
-*What is the gender of a typical Nobel Prize winner? 3.The first woman to win the Nobel Prize
-*How old are you when you get the prize?
-*Age differences between prize categories
+What is the gender of a typical Nobel Prize winner? 3.The first woman to win the Nobel Prize
+How old are you when you get the prize?
+Age differences between prize categories
 
 
 
