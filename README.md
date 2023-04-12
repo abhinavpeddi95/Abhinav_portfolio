@@ -20,7 +20,8 @@ What is the gender of a typical Nobel Prize winner? 3.The first woman to win the
 How old are you when you get the prize?
 Age differences between prize categories
 
-![](/images/nobel_gender.png) ![](/images/nobel1.png)
+![](/images/nobel_gender.png) 
+![](/images/nobel1.png)
 
 
 
