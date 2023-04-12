@@ -1,4 +1,4 @@
-# datascience portfolio 
+# Data Analysis portfolio 
 
 Explore my projects on importing of data and data manipulation
 
