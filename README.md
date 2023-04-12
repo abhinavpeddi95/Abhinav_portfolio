@@ -4,7 +4,7 @@ Explore my projects that demonstrate my proficiency in tasks such as importing d
 
 # [Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
 
-In this project, I have applied data importing and cleaning skills to uncover below insights about the Airbnb market in New York City.
+In this project, I have applied <b> data importing and cleaning skills </b> to uncover below insights about the Airbnb market in New York City.
 
 *What is the average price, per night, of an Airbnb listing in NYC?
 How does the average price of an Airbnb listing, per month, compare to the private rental market?
