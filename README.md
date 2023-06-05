@@ -10,6 +10,8 @@ The project utilizes a dataset of historical bike rental records to train and ev
   <img src='images/seoul_bike_pred1.png' style="flex: 50%; padding: 5px;">
 </div>
 
+![Image 1](images/seoul_bike_pred.png) ![Image 2](images/seoul_bike_pred1.png)
+
 # [Project 2: Chronic_Kidney_Disease](https://github.com/abhinavpeddi95/Chronic_Kidney_Disease.git)
 This repository contains code and resources for a machine learning project that aims to classify instances of Chronic Kidney Disease (CKD). The project utilizes a dataset of patient health attributes to train and evaluate various classification models.
 
