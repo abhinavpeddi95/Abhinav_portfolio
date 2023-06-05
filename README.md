@@ -1,4 +1,4 @@
-# Data Analysis portfolio 
+# Data Science portfolio 
 
 Explore my projects that demonstrate my proficiency in tasks such as importing data, data cleansing, manipulating data, and conducting exploratory data analysis.
 
