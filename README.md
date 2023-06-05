@@ -4,10 +4,14 @@ Explore my projects that demonstrate my proficiency in tasks such as importing d
 
 
 # [Project 1: Seoul Bike Rental Demand Prediction](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
+This repository contains code and resources for predicting the bike rental demand in Seoul. The project utilizes a dataset of historical bike rental records to train and evaluate machine learning models for demand prediction.
 
 # [Project 2: Chronic_Kidney_Disease](https://github.com/abhinavpeddi95/Chronic_Kidney_Disease.git)
+This repository contains code and resources for a machine learning project that aims to classify instances of Chronic Kidney Disease (CKD). The project utilizes a dataset of patient health attributes to train and evaluate various classification models.
 
 # [Project 3: Email Spam Classifier](https://github.com/abhinavpeddi95/Email-Spam-Classifier.git)
+This repository contains code and resources for an email spam classifier. The project aims to build a machine learning model that can accurately classify emails as either spam or not spam based on their content and characteristics.
+
 
 
 # [Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
