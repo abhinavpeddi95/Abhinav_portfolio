@@ -4,7 +4,7 @@ Explore my projects that demonstrate my proficiency in tasks such as importing d
 
 
 # [Project 1: Seoul Bike Rental Demand Prediction](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
-The project utilizes a dataset of historical bike rental records to train and evaluate machine learning models for demand prediction. The dataset used in this project is sourced from the Seoul Bike Sharing System. It includes information such as date, time, weather conditions, and the number of bikes rented. The dataset consists of 24 coulmns and 1048576 rows. 
+The project utilizes a dataset of historical bike rental records to train and evaluate machine learning models for demand prediction. The dataset used in this project is sourced from the Seoul Bike Sharing System. The dataset consists of 24 coulmns and 1048576 rows. It includes information such as date, time, weather conditions, and the number of bikes rented. 
 
 ![](images/seoul_bike_pred.png) ![](images/seoul_bike_pred1.png) 
 
