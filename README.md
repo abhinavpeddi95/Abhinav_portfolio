@@ -1,6 +1,6 @@
 # Data Science portfolio 
 
-Explore my projects that demonstrate my proficiency in tasks such as importing data, data cleansing, manipulating data, and conducting exploratory data analysis.
+Explore my projects that demonstrate my proficiency in tasks such as importing data, data cleansing, manipulating data, and conducting exploratory data analysis, model building & optimising model performace etc..
 
 # [Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
 
