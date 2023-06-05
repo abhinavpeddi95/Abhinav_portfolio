@@ -14,9 +14,11 @@ The machine learning project that aims to classify instances of Chronic Kidney D
 <img src="images/ckd_cm.png" alt="Image" width="500" height="300"> <img src='images/ckd_corr.png' alt="Image" width="500" height="300">
 
 # [Project 3: Email Spam Classifier](https://github.com/abhinavpeddi95/Email-Spam-Classifier.git)
-This repository contains code and resources for an email spam classifier. The project aims to build a machine learning model that can accurately classify emails as either spam or not spam based on their content and characteristics.
+The project aims to build a machine learning model that can accurately classify emails as either spam or not spam based on their content and characteristics. The dataset used in this project is sourced from the spam_detection. It includes a collection of emails labeled as spam or ham (non-spam). The dataset consists of 4602 rows and 58 columns
 
+<img src="images/spam_class.png" alt="Image" width="500" height="300"> 
 
+# Data Analysis portfolio 
 
 # [Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
 
@@ -36,8 +38,7 @@ What is the gender of a typical Nobel Prize winner? 3.The first woman to win the
 How old are you when you get the prize?
 Age differences between prize categories
 
-![](/images/nobel_gender.png) 
-![](/images/nobel1.png)
+<img src="images/nobel_gender.png" alt="Image" width="500" height="300"> <img src='images/nobel1.png' alt="Image" width="500" height="300">
 
 # [Project 3: Exploring the History of LEGO](https://github.com/abhinavpeddi95/Exploring-the-Evolution-of-Lego-.git)
 
