@@ -6,7 +6,7 @@ Explore my projects that demonstrate my proficiency in tasks such as importing d
 # [Project 1: Seoul Bike Rental Demand Prediction](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
 The project utilizes a dataset of historical bike rental records to train and evaluate machine learning models for demand prediction. The dataset used in this project is sourced from the Seoul Bike Sharing System. The dataset consists of 24 coulmns and 1048576 rows. It includes information such as date, time, weather conditions, and the number of bikes rented. 
 
-![] <img src='images/seoul_bike_pred.png' alt="Image" width="500" height="300">  ![](images/seoul_bike_pred1.png) 
+![] <img src='images/seoul_bike_pred.png' alt="Image" width="500" height="300">  <img src='images/seoul_bike_pred1.png' alt="Image" width="500" height="300">
 
 # [Project 2: Chronic_Kidney_Disease](https://github.com/abhinavpeddi95/Chronic_Kidney_Disease.git)
 This repository contains code and resources for a machine learning project that aims to classify instances of Chronic Kidney Disease (CKD). The project utilizes a dataset of patient health attributes to train and evaluate various classification models.
