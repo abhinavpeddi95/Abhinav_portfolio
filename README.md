@@ -11,12 +11,12 @@ The project utilizes a dataset of historical bike rental records to train and ev
 # [Project 2: Chronic_Kidney_Disease](https://github.com/abhinavpeddi95/Chronic_Kidney_Disease.git)
 The machine learning project that aims to classify instances of Chronic Kidney Disease (CKD). The project utilizes a dataset of patient health attributes to train and evaluate various classification models. The dataset used in this project is sourced from the UCI Machine Learning Repository and consists of instances representing patient records with 24 attributes. These attributes include patient demographic information, symptoms, and laboratory test results. The target variable indicates the presence or absence of Chronic Kidney Disease.
 
-<img src="images/ckd_cm.png" alt="Image" width="500" height="300"> <img src='images/ckd_corr.png' alt="Image" width="500" height="300">
+<img src="images/ckd_cm.png" alt="Image" width="400" height="300"> <img src='images/ckd_corr.png' alt="Image" width="400" height="300">
 
 # [Project 3: Email Spam Classifier](https://github.com/abhinavpeddi95/Email-Spam-Classifier.git)
 The project aims to build a machine learning model that can accurately classify emails as either spam or not spam based on their content and characteristics. The dataset used in this project is sourced from the spam_detection. It includes a collection of emails labeled as spam or ham (non-spam). The dataset consists of 4602 rows and 58 columns
 
-<img src="images/spam_class.png" alt="Image" width="500" height="300"> 
+<img src="images/spam_class.png" alt="Image" width="400" height="300"> 
 
 # Data Analysis portfolio 
 
