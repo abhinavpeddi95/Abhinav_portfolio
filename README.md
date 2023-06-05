@@ -1,6 +1,14 @@
-# Data Science portfolio 
+# Data Analysis portfolio 
 
 Explore my projects that demonstrate my proficiency in tasks such as importing data, data cleansing, manipulating data, and conducting exploratory data analysis, model building & optimising model performace etc..
+
+
+# [Project 1: Seoul Bike Rental Demand Prediction](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
+
+# [Project 2: Chronic_Kidney_Disease](https://github.com/abhinavpeddi95/Chronic_Kidney_Disease.git)
+
+# [Project 3: Email Spam Classifier](https://github.com/abhinavpeddi95/Email-Spam-Classifier.git)
+
 
 # [Project 1: Exploring-the-NYC-Airbnb-Market](https://github.com/abhinavpeddi95/DA_Exploring-the-NYC-Airbnb-Market)
 
