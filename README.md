@@ -2,7 +2,7 @@
 
 Explore my projects that demonstrate my proficiency in tasks such as importing data, data cleansing, manipulating data, and conducting exploratory data analysis, model building & optimising model performace etc..
 
-# [Project 1: Sentiment Analysis of Financial News using NLTK](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
+# [Project 1: Sentiment Analysis of Financial News using NLTK](https://github.com/abhinavpeddi95/Sentiment-Analysis-of-Financial-News.git)
 This project aims to perform sentiment analysis on financial news articles using the Natural Language Toolkit (NLTK) library. The goal is to classify the sentiment of news articles as positive, negative, or neutral based on the textual content.
 
 # [Project 2: Seoul Bike Rental Demand Prediction](https://github.com/abhinavpeddi95/Seoul-bike-prediction.git)
