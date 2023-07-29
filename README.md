@@ -29,9 +29,15 @@ In this project, I have applied <b> Data Importing and Cleaning skills </b> to u
 *What is the average price, per night, of an Airbnb listing in NYC?
 How does the average price of an Airbnb listing, per month, compare to the private rental market?
 How many adverts are for private rooms?
-How do Airbnb listing prices compare across the five NYC boroughs?
+How do Airbnb listing prices compare across the five NYC boroughs?t
 
-# [Project 2: A Visual History of Nobel Prize Winners](https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
+# [Project 2: COVID Data Analysis using PowerBI](https://github.com/abhinavpeddi95/COVID-data-Analaysis.git)
+
+Designed a Power BI dashboard to find out which ethnicity has impacted most in the United States during the COVID pandemic using 3 datasets collected from three different sources and are in two formats xlsx and web. Three datasets are loaded into Power BI and removed null and empty spaces and identified outliers’ & extreme vales and treated them as per requirements. Later, normalised datasets into different tables and integrated them using star schema approach with two fact tables. Used R script and Power BI to Interpret the results as per the requirements and conducted manual testing to check datasets has any more outliers or null values and to see whether visualizations are plotted from appropriate tables. Finally, found that non-hispanic latino and hispanic latino ethic group afftected the most in United Sates.
+
+
+
+# [Project 3: A Visual History of Nobel Prize Winners](https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
 
 The goal is to explore patterns and trends over 100 years worth of Nobel Prize winners using <b> Data Manipulation and visualization skills </b>, and answering key questions
 
@@ -42,7 +48,7 @@ Age differences between prize categories
 
 <img src="images/nobel_gender.png" alt="Image" width="500" height="300"> <img src='images/nobel1.png' alt="Image" width="500" height="300">
 
-# [Project 3: Exploring the History of LEGO](https://github.com/abhinavpeddi95/Exploring-the-Evolution-of-Lego-.git)
+# [Project 4: Exploring the History of LEGO](https://github.com/abhinavpeddi95/Exploring-the-Evolution-of-Lego-.git)
 
 In this project, we are going to explore a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter and going to findout answers for below questions.
 
