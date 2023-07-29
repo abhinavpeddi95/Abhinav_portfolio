@@ -31,11 +31,11 @@ How does the average price of an Airbnb listing, per month, compare to the priva
 How many adverts are for private rooms?
 How do Airbnb listing prices compare across the five NYC boroughs?t
 
-# [Project 2: COVID Data Analysis using PowerBI](https://github.com/abhinavpeddi95/COVID-data-Analaysis.git)
+# [Project 2: COVID Data Analysis using Power BI](https://github.com/abhinavpeddi95/COVID-data-Analaysis.git)
 
 Designed a Power BI dashboard to find out which ethnicity has impacted most in the United States during the COVID pandemic using 3 datasets collected from three different sources and are in two formats xlsx and web. Three datasets are loaded into Power BI and removed null and empty spaces and identified outliers’ & extreme vales and treated them as per requirements. Later, normalised datasets into different tables and integrated them using star schema approach with two fact tables. Used R script and Power BI to Interpret the results as per the requirements and conducted manual testing to check datasets has any more outliers or null values and to see whether visualizations are plotted from appropriate tables. Finally, found that non-hispanic latino and hispanic latino ethic group afftected the most in United Sates.
 
-<img src="images/Screenshot 2023-07-29 211806.png" alt="Image" width="400" height="300">
+<img src="images/Screenshot 2023-07-29 211806.png" alt="Image">
 
 # [Project 3: A Visual History of Nobel Prize Winners](https://github.com/abhinavpeddi95/A-Visual-history-of-Nobel-prize-winners)
 
